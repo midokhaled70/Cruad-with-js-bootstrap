@@ -1,6 +1,3 @@
-Here's a professional and clear `README.md` file for your product management web app:
-
----
 
 # 🛒 Product Management Web App
 
