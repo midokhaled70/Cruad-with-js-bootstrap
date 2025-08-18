@@ -59,3 +59,4 @@ project-folder/
 - Add search functionality that actually filters the products.
 - Responsive enhancements for mobile view.
 
+#
