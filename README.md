@@ -60,3 +60,4 @@ project-folder/
 - Responsive enhancements for mobile view.
 
 ##Author
+--
