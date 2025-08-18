@@ -60,4 +60,4 @@ project-folder/
 - Responsive enhancements for mobile view.
 
 ##Author
---Mido Kh
+--Mido Kha
